@@ -32,7 +32,7 @@ exclude_file: []
 # This is the notebook used to generate the home page for the
 # website. If no home page is set, an Overview.ipynb file is
 # automatically generated and saved in the base project directory.
-homepage: "analysis/index.ipynb"
+homepage: "README.md"
 
 # The name of the homepage link shown in the navigation bar.
 # Set to NULL to hide it
