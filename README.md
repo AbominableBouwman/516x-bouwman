@@ -13,9 +13,15 @@ The participants are then asked to provide the participant ID given to them at t
 
 
 
-## Data Collection  
-The reaction times are each logged in a seperate cloud variable and can be collected from various URL's assocaited with the module. These can be grabbed with a python script and stored in a usable format. 
+## Workflow  
+![image](https://user-images.githubusercontent.com/64162566/142095286-ef9170f5-a87f-4212-a7e4-4458cd858f83.png)
 
+
+- [Data Processing](This will go to the Processing notebook)
+- [Data Exploration](This will go to the Exploration notebook)
+- [Model Prediction](This will go to the Visualization notebook)
+- 
 (Data scraping Python Script/Export the collected data here)
+The reaction times are each logged in a seperate cloud variable and can be collected from various URL's assocaited with the module. These can be grabbed with a python script and stored in a usable format. 
 
 
