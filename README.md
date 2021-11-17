@@ -16,12 +16,15 @@ The participants are then asked to provide the participant ID given to them at t
 ## Workflow  
 ![image](https://user-images.githubusercontent.com/64162566/142095286-ef9170f5-a87f-4212-a7e4-4458cd858f83.png)
 
-
+- [Data Collection](Data scraping Python Script/Export the collected data here)
 - [Data Processing](This will go to the Processing notebook)
 - [Data Exploration](This will go to the Exploration notebook)
 - [Model Prediction](This will go to the Visualization notebook)
-- 
-(Data scraping Python Script/Export the collected data here)
+
 The reaction times are each logged in a seperate cloud variable and can be collected from various URL's assocaited with the module. These can be grabbed with a python script and stored in a usable format. 
 
+## Class Excercise
+Follow along with this [notebook](Class activity). 
+
+For this activity you will use download the notebooks and use the prediction model to deteremine which input method would be best for you based your demographic information. We will then collect information using the testing module and compare the results to the predicted model. 
 
