@@ -21,7 +21,7 @@ This workflow is designed to explain the process of going from experimental data
 
 1. [Data Collection](https://docs.google.com/spreadsheets/d/11fNLn7-7c9rlHEPKpTqid2YDDLQVBW_QTY4EYnlaYXQ/edit?usp=sharin)
 2. [Data Processing](https://nbviewer.org/github/AbominableBouwman/516x-bouwman/blob/cae5b450f6221f1b8d79e74ef9d5ba3673212f80/JupyterNotebooks/Data%20Cleaning%20and%20Sorting.ipynb)
-3. [Data Exploration](https://nbviewer.org/github/AbominableBouwman/516x-bouwman/blob/cae5b450f6221f1b8d79e74ef9d5ba3673212f80/JupyterNotebooks/Data%20Exploration.ipynb)
+3. [Data Exploration](https://nbviewer.org/github/AbominableBouwman/516x-bouwman/blob/c2f347a21996c601555f4b6519e8df31f2d94c0c/JupyterNotebooks/Data%20Exploration.ipynb)
 4. [Model Prediction](https://nbviewer.org/github/AbominableBouwman/516x-bouwman/blob/cae5b450f6221f1b8d79e74ef9d5ba3673212f80/JupyterNotebooks/Classification%20of%20Reaction%20Time%20Data.ipynb)
 5. (Bonus) [Data Visualization](https://nbviewer.org/github/AbominableBouwman/516x-bouwman/blob/9535f6ebfc1931f22422a895dc3358a248cdc575/JupyterNotebooks/Data%20Visualization.ipynb)
 
