@@ -19,15 +19,16 @@ The Qestionaires are located at [Link](https://docs.google.com/forms/d/e/1FAIpQL
 
 This workflow is designed to explain the process of going from experimental data to a publishable article. The following links will walk through this process step by step, and each will export data at various stages for testing and transparency.  
 
-1. [Data Collection](Data scraping Python Script/Export the collected data here)
-2. [Data Processing](This will go to the Processing notebook)
-3. [Data Exploration](This will go to the Exploration notebook)
-4. [Model Prediction](This will go to the Visualization notebook)
+1. [Data Collection](https://docs.google.com/spreadsheets/d/11fNLn7-7c9rlHEPKpTqid2YDDLQVBW_QTY4EYnlaYXQ/edit?usp=sharin)
+2. [Data Processing](https://nbviewer.org/github/AbominableBouwman/516x-bouwman/blob/9535f6ebfc1931f22422a895dc3358a248cdc575/JupyterNotebooks/Data%20Cleaning%20and%20Sorting.ipynb)
+3. [Data Exploration](https://nbviewer.org/github/AbominableBouwman/516x-bouwman/blob/9535f6ebfc1931f22422a895dc3358a248cdc575/JupyterNotebooks/Data%20Exploration.ipynb)
+4. [Model Prediction](https://nbviewer.org/github/AbominableBouwman/516x-bouwman/blob/9535f6ebfc1931f22422a895dc3358a248cdc575/JupyterNotebooks/Classification%20of%20Reaction%20Time%20Data.ipynb)
+5. (Bonus) [Data Visualization](https://nbviewer.org/github/AbominableBouwman/516x-bouwman/blob/9535f6ebfc1931f22422a895dc3358a248cdc575/JupyterNotebooks/Data%20Visualization.ipynb)
 
-The reaction times are logged in a separate cloud variable and can be collected from various URLs associated with the module. These can be grabbed with a python script and stored in a usable format. 
 
 ## Class Excercise
-Follow along with this [notebook](Class activity). 
+Follow along with this partially filled [notebook](https://nbviewer.org/github/AbominableBouwman/516x-bouwman/blob/9535f6ebfc1931f22422a895dc3358a248cdc575/JupyterNotebooks/Class%20Activity%21%20%28Empty%29.ipynb).   
+or this fully completed one - [link](https://nbviewer.org/github/AbominableBouwman/516x-bouwman/blob/9535f6ebfc1931f22422a895dc3358a248cdc575/JupyterNotebooks/Class%20Activity%21%20%28Filled%29.ipynb)
 
 For this activity, you will download the notebooks and use the prediction model to determine which input method would be best for you based on your demographic information. We will then collect information using the testing module and compare the results to the predicted model.
 
