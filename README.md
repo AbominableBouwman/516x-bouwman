@@ -1,7 +1,17 @@
-## Human Reaction Time
-Whenever you see something, there is a slight delay before you can react to it. The delay is measurable and variable across many different factors such as race, sex, age, and various environmental factors. The current research tests the impact of different input methods as a significant impact factor for individual reaction time. 
+## Introduction
+When a hazardous event begins to escalate into a mishap event, individuals may respond quickly to the situation to limit the impacts of the mishap or possibly stop the event from propagating altogether. This study proposes software to test an individuals' reaction time during onset events with various input methods. This proposed software design includes developing clear criteria for evaluating this or similar software. These criteria will be used to analyze reaction time data gathered through a prototype module created in Scratch, a visual coding service, and the Lifelong Kindergarten Group project at the MIT Media Lab (n.d). This project will impact various industries, including military, manufacturing, and agriculture, but this study will focus mainly on the manufacturing sector for reaction-based events. 
 
-(More Lit review on definitions and previous results to be added later)
+## Problem
+In case of manufacturing machine failure, such as a CNC mill or lathe, or process error that needs to be corrected rapidly, which type of interface control produces the least response delay from a human?
+
+## Research Questions
+1. Which type of interface control produces the least response delay from a human?   
+2. What is the best way to model and detect the difference in response times?
+3. To what extent was the prototype able to gauge the reaction time of participants?
+
+## Human Reaction Time
+Whenever you see something, there is a slight delay before you can react to it. The delay is measurable and variable across many different factors such as race, sex, age, and various environmental factors. The current research tests the impact of different input methods as a significant impact factor for individual reaction time.  
+(For more information and a more detailed write up see the file "IE577_Project_Final_ReactionTimeMethod" in the main directory or linked [here](IE577_Project_Final_ReactionTimeMethod)) 
 
 ## Testing Methods  
 Data is being collected using a module created on Scratch, a free game/programming tool designed and maintained by the Lifelong Kindergarten group at the [MIT Media Lab](https://scratch.mit.edu/about). This module was designed and created by Elijah Bouwman as part of a graduate course at Iowa State University, Industrial Engineering 577: Human Factors. The module provides the participants an ID used to track their data across attempts. The module then asks participants to choose an input or control method from a list of three: Mouse, Keyboard, Touch Screen. The module then shows a red screen, and after a minimum of two seconds, the screen will light up green and ask the participant to interact with the screen. The time the green screen is visible is logged in milliseconds, and the test is repeated until five successful data points have been gathered. The testing process is repeated for each method of control a total of 15 times. 
@@ -32,3 +42,17 @@ or this fully completed one - [link](https://nbviewer.org/github/AbominableBouwm
 
 For this activity, you will download the notebooks and use the prediction model to determine which input method would be best for you based on your demographic information. We will then collect information using the testing module and compare the results to the predicted model.
 
+
+## FAIR Statement  
+This project strives to uphold FAIR principles to that end:  
+
+To be Findable: The columns are transformed to make each piece of data easy to locate within the original data and care has been taken to match data up properly when merging or transforming.  
+  
+To be Accessible: The data is accessable to all and each piece is noted for when it is moved and stored. All data is accessiable in this repository or linked to where it is stored.  
+  
+To be Interoperable: Clear headings and language are used in all possible locations for the data. This is consistent and there is an attempt to comment through the data processing process. The data uses accessible language for the coding portion to allow for readability.    
+  
+To be Reusable: All data is availiable for use by other researchers to check the conclusions drawn in this study or to be used for another study.
+  
+This project can be reproduced using the workflow provided. This will only work if you use the headers from the Google form or if they are formatted similarly. All of the figures can be reproduced from the data given or changed to account for new information if the Google form is updated with more results.  
+  
