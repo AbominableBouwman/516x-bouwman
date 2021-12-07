@@ -42,6 +42,8 @@ or this fully completed one - [link](https://nbviewer.org/github/AbominableBouwm
 
 For this activity, you will download the notebooks and use the prediction model to determine which input method would be best for you based on your demographic information. We will then collect information using the testing module and compare the results to the predicted model.
 
+## ABE 516x Discussion
+This project makes use of various data science methods. There is a strong use of the merge and melt functions in the data cleaning document. Without these functions, there would be no easy way to match demographic data up with the response time data or turn the five rounds into multiple entries for easier data analysis. This study had intended to use data scraping to grab the data from Scratch, but that fell through as it was not accessible on the server-side. This class prepared the study for quick and easy visualizations of the exploratory data. The Ability to filter groups to make an insightful discovery in the Data Exploration file was very useful. In the same file, OLS and ANOVA modules are used, and while no significance was found, the methodology is sound. The use of SVM to determine the input method based on other characteristics is mostly for fun and to practice the implementation of SVM. This study pulled information from various packages and implemented them throughout the process. The documentation was vital to fixing errors and defining variables throughout the process.        
 
 ## FAIR Statement  
 This project strives to uphold FAIR principles to that end:  
@@ -50,7 +52,7 @@ To be Findable: The columns are transformed to make each piece of data easy to l
   
 To be Accessible: The data is accessable to all and each piece is noted for when it is moved and stored. All data is accessiable in this repository or linked to where it is stored.  
   
-To be Interoperable: Clear headings and language are used in all possible locations for the data. This is consistent and there is an attempt to comment through the data processing process. The data uses accessible language for the coding portion to allow for readability.    
+To be Interoperable: Clear headings and language are used in all possible locations for the data. This is consistent and there is an attempt to comment through the data processing process. The data uses accessible language for the coding portion to allow for readability.   
   
 To be Reusable: All data is availiable for use by other researchers to check the conclusions drawn in this study or to be used for another study.
   
