@@ -35,6 +35,22 @@ This workflow is designed to explain the process of going from experimental data
 4. [Model Prediction](https://nbviewer.org/github/AbominableBouwman/516x-bouwman/blob/cae5b450f6221f1b8d79e74ef9d5ba3673212f80/JupyterNotebooks/Classification%20of%20Reaction%20Time%20Data.ipynb)
 5. (Bonus) [Data Visualization](https://nbviewer.org/github/AbominableBouwman/516x-bouwman/blob/9535f6ebfc1931f22422a895dc3358a248cdc575/JupyterNotebooks/Data%20Visualization.ipynb)
 
+## Conclusion for Data Exploration  
+
+Let us start with our research questions:  
+
+1. Which type of interface control produces the least response delay from a human?  
+
+RQ1: Since the prototype could not detect any significant results from the difference in methods, we will use the human factors principles to develop a new testing model and test again.  
+
+2. What is the best way to model and detect the difference in response times?  
+
+RQ2: Establishing a linear regression model with regularly fitted data with sex + ethnicity + age + round + method produced fairly even residual and predicted vs. actual plots, but again the shortcomings of the data collection method increase the difficulty of making predictive models.  
+
+3. To what extent was the prototype able to gauge the reaction time of participants?  
+
+RQ3: Our model failed to produce any statistically significant results. Do not use Scratch for Reaction Time Data. It was discovered after testing that Scratch runs at a locked 30 frames per second, meaning the screen only updates once every .033 seconds. This source of error would impact any method tested in the Scratch software. For example, the mean human reaction time is 0.371688 for Mouse (after the removal of outliers), a nearly 10% error when the screen decides to update adds an undo amount of error to the test results.   
+
 
 ## Class Excercise
 Follow along with this partially filled [notebook](https://nbviewer.org/github/AbominableBouwman/516x-bouwman/blob/9535f6ebfc1931f22422a895dc3358a248cdc575/JupyterNotebooks/Class%20Activity%21%20%28Empty%29.ipynb).   
