@@ -25,7 +25,7 @@ The Qestionaires are located at [Link](https://docs.google.com/forms/d/e/1FAIpQL
 
 
 ## Workflow  
-![image](https://user-images.githubusercontent.com/64162566/142462497-994e1e03-6f15-475b-a22f-378929688296.png)
+![image](https://user-images.githubusercontent.com/64162566/144971081-d756de7a-816f-45ee-9c05-41d1e68b53c5.png)
 
 This workflow is designed to explain the process of going from experimental data to a publishable article. The following links will walk through this process step by step, and each will export data at various stages for testing and transparency.  
 
