@@ -39,15 +39,15 @@ This workflow is designed to explain the process of going from experimental data
 
 Let us start with our research questions:  
 
-1. Which type of interface control produces the least response delay from a human?  
+1.Which type of interface control produces the least response delay from a human?  
 
 RQ1: Since the prototype could not detect any significant results from the difference in methods, we will use the human factors principles to develop a new testing model and test again.  
 
-2. What is the best way to model and detect the difference in response times?  
+2.What is the best way to model and detect the difference in response times?  
 
 RQ2: Establishing a linear regression model with regularly fitted data with sex + ethnicity + age + round + method produced fairly even residual and predicted vs. actual plots, but again the shortcomings of the data collection method increase the difficulty of making predictive models.  
 
-3. To what extent was the prototype able to gauge the reaction time of participants?  
+3.To what extent was the prototype able to gauge the reaction time of participants?  
 
 RQ3: Our model failed to produce any statistically significant results. Do not use Scratch for Reaction Time Data. It was discovered after testing that Scratch runs at a locked 30 frames per second, meaning the screen only updates once every .033 seconds. This source of error would impact any method tested in the Scratch software. For example, the mean human reaction time is 0.371688 for Mouse (after the removal of outliers), a nearly 10% error when the screen decides to update adds an undo amount of error to the test results.   
 
